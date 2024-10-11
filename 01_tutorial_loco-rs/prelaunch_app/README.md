@@ -5,18 +5,15 @@ cargo loco generate scaffold contacts email:string^ --htmx
 
 ```bash
 $ loco new
-✔ ❯ You are inside a git repository. Do you wish to continue? · yes
-✔ ❯ App name? · myapp_loco
+
+✔ ❯ App name? · prelaunch_app
 ✔ ❯ What would you like to build? · SaaS app (with DB and user auth)
 ✔ ❯ Select a DB Provider · Sqlite
 ✔ ❯ Select your background worker type · Async (in-process tokyo async tasks)
-✔ ❯ Select an asset serving configuration · Client (configures assets for frontend serving)
+✔ ❯ Select an asset serving configuration · Server (configures server-rendered views)
 
 🚂 Loco app generated successfully in:
-/01_tutorial_loco-rs/myapp_loco
-
-- assets: You've selected `clientside` for your asset serving configuration (remember to build your frontend in `frontend/`)
-
+/prelaunch_app
 ```
 
 - 관리해야할듯 `./config/development.yaml` / `test.yaml`
