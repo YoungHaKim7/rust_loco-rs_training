@@ -14,6 +14,20 @@ $ loco new
 
 ```
 
+- 관리해야할듯 `./config/development.yaml` / `test.yaml`
+
+```yaml
+
+# Authentication Configuration
+auth:
+  # JWT authentication
+  jwt:
+    # Secret key for token generation and verification
+    secret: BB8ecMz1VqUBZSzKutRz
+    # Token expiration time in seconds
+    expiration: 604800 # 7 days
+```
+
 <hr />
 
 # Welcome to Loco :train:
