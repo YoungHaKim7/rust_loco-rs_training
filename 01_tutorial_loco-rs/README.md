@@ -3,6 +3,7 @@
 # tutorial
 - [Zero to Production with Loco and Rust: Build a Product Launch App | Loco Casts](https://youtu.be/KolaSaPiVTI?si=8oqpg1yoxhc2s--y)
   - [Loco Casts 007: Full CRUD with HTMX scaffold generator | Loco Casts](https://youtu.be/OWUvUSC1KvY?si=hyOj1sEabT0fRIGi)
+    - [영상모아보기 Loco Casts Loco Casts 팟캐스트](https://youtube.com/playlist?list=PLpSd0O9lCbLqgsFfqeT9-EkmAxAXiw2xR&si=weM5wDB0NgVII4bW)
      
 
 
