@@ -1,5 +1,5 @@
 ```bash
-❯ loco new
+$ loco new
 ✔ ❯ You are inside a git repository. Do you wish to continue? · yes
 ✔ ❯ App name? · myapp_loco
 ✔ ❯ What would you like to build? · SaaS app (with DB and user auth)
