@@ -9,3 +9,4 @@
 # eBook(loco)
 - https://loco.rs/docs/getting-started/tour/
 - https://loco.rs/docs/getting-started/guide/
+- https://www.shuttle.dev/blog/2023/12/28/using-loco-rust-rails
